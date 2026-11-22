@@ -1,0 +1,13 @@
+prompt_id,query_type,intent,prompt
+U01,unbranded,category,"Which {category} tools suit {buyer_segment} in {market}, and what tradeoffs matter?"
+U02,unbranded,use_case,"I need to {job_to_be_done} with {constraint}. Which options should I evaluate?"
+U03,unbranded,alternatives,"What alternatives to {competitor} fit {buyer_segment}, and why?"
+U04,unbranded,pricing,"Which {category} products fit {budget} for {usage}, including extra fees?"
+U05,unbranded,integration,"Which {category} tools support {integration} for {specific_action}?"
+U06,unbranded,limitations,"Which {category} option fits {scenario}, and when would it be a poor fit?"
+U07,unbranded,evidence,"Which {category} tools have useful evidence of results for {buyer_segment}?"
+U08,unbranded,procurement,"Compare suitable {category} products for {team_size} people in {market} against {purchase_criteria}."
+B01,branded,comparison,"Compare {brand} and {competitor} for {job_to_be_done}, including limitations."
+B02,branded,pricing,"What does {brand} cost for {usage}, and which limits or extra charges apply?"
+B03,branded,eligibility,"Is {brand} suitable and available for {buyer_segment} in {market}?"
+B04,branded,offer,"Does {brand} have current public offers for {buyer_segment}, and what are their terms?"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Search Visibility"
+  short_description: "Audit and improve visibility in AI search answers"
+  default_prompt: "Use $ai-visibility to audit my site, measure how AI platforms cite it, and design the highest-impact experiment."

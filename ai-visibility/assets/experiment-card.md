@@ -1,0 +1,24 @@
+# AI visibility experiment
+
+- Experiment ID and prompt-bank version:
+- Buyer segment, language, market, and goal:
+- Motivating observation (source URLs/dates):
+- Hypothesis and alternative explanation:
+- Authorized implementation scope:
+- Primary outcome and smallest useful improvement:
+- Secondary outcomes (accuracy, qualified leads, cost):
+- Platforms, surfaces/search modes, models:
+- Core prompts, repetitions, collection budget:
+- Assignment unit, treatment, control, stratification:
+- Exact content/version change and equivalent facts:
+- Variables held constant (including filters/tracking):
+- Baseline window and prompt coverage:
+- Deployment time and exposure/recrawl evidence:
+- Follow-up window and retrieval/cache lag assumption:
+- Raw evidence and annotation locations:
+- Confounders and concurrent changes:
+- Success rule, inconclusive rule, stopping budget:
+- Rollback triggers and owner:
+- Conversion event, attribution limits, test exclusions:
+- Result (counts, denominators, rates, uncertainty, coverage):
+- Decision: retain / revise / revert / inconclusive, with rationale:
